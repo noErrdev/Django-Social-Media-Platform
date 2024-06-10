@@ -1,4 +1,4 @@
-# WWINS
+# Social Media Platform
 
 <p align="center">
   <img src="./static/assets/gitimages/logo.png" alt="Logo">
